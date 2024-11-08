@@ -19,4 +19,6 @@ class App:Application() {
         }
     }
 
+    //Комментарий
+
 }
